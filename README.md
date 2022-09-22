@@ -5,7 +5,7 @@ Just for practicing documentation on github and pulling pushing concept.
 ## **Getting Started**
 ### **Dependencies**
 * Windows 10
-* Connection*
+* Connection
 * Github, Gitbash
 
 ### **Installing**
